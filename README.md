@@ -13,9 +13,9 @@ python retrain.py \
   --output_labels=retrained_labels.txt \
   --image_dir=ben10      
   
-  ## Testing an image
+  ## Testing an image:
   python label_image.py _test-image.jpg_
   
-  ### Referral source --> https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ and https://www.youtube.com/watch?v=cSKfRcEDGUs
+  Referral source --> https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ and https://www.youtube.com/watch?v=cSKfRcEDGUs
   
   
