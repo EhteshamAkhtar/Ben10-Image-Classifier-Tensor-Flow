@@ -16,7 +16,7 @@ python retrain.py \
   ## Testing an image:
   python label_image.py _test-image.jpg_
   
-Note: "inception" directory is missing. Refer instructions in the link below inorder to add it. 
+*Note:* "inception" directory is missing. Refer instructions in the link below inorder to add it. 
 
  Referral source --> https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ and https://www.youtube.com/watch?v=cSKfRcEDGUs
   
